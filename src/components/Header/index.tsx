@@ -54,7 +54,7 @@ const Header = () => {
       >
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
-            <div className="w-60 max-w-full pr-4 ">
+            <div className="w-60 max-w-full pr-4 pl-4 ">
               <Link
                 href="/"
                 className={`navbar-logo block w-full ${
